@@ -1,2 +1,2 @@
 # animation
-Creation of an animation with the anime.js library
+This is my name animated using the anime library and SVG illustrations.
